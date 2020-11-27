@@ -8,7 +8,7 @@ public class ToasterMessage {
 
     public static void s(Context c, String message){
 
-        Toast.makeText(c,"HELLO" ,Toast.LENGTH_LONG).show();
+        Toast.makeText(c,"HELLO123" ,Toast.LENGTH_LONG).show();
 
     }
 
